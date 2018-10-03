@@ -8,12 +8,27 @@ body {
     width: 80%;
     border: 20px solid #bdc3c7;
     padding: 20px;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1 {
     text-align: center;
     text-transform: uppercase;
-    font-family: 'Poppins', sans-serif;
     letter-spacing: 5px;
     border-bottom: 2px solid slategray;
+}
+
+h2 {
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.date {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.quote {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;
 }
